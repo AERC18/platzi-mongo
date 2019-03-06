@@ -14,7 +14,7 @@ Con Anaconda instalado de manera correcta, navegar hasta el directorio del proye
 y ejecutar: 
 ```
 # navegar hasta el directorio del proyecto
-cd mongodb-platzi
+cd platzi-mongo
 # crear un nuevo ambiente
 conda create --name platzi-mongo
 # activar el ambiente 
